@@ -82,6 +82,14 @@ Currently working on cutting-edge AI/ML projects and helping organizations lever
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 
+### Software Engineer, Mannai Corporation (Doha, Qatar) 
+**Oct 2025 - Present | Doha, Qatar**
+- Developing and integrating AI-driven monitoring for the Border Information System, enhancing security across 1100+ AXIS PTZ/Fixed cameras managed via Milestone VMS & Ipsotek.
+- Deploying computer vision models (YOLO/TensorFlow) in Docker containers for real-time object detection and violation analysis, reducing false alerts by 11%.
+- Implementing advanced License Plate Recognition (LPR) system with real-time noise reduction using OpenCV, accelerating immigration processing by 20%.
+- **Tools:** Python, TensorFlow, OpenCV, Docker, PostgreSQL
+
+
 ### Baker Hughes - Full-Stack Developer Intern
 **Sep 2024 - Sep 2025 | Pune, India**
 
