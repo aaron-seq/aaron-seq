@@ -82,9 +82,10 @@ Currently working on cutting-edge AI/ML projects and helping organizations lever
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 
-### AI Research Engineer, Wood Engineering (Doha, Qatar) 
+### AI Research Engineer, Wood Engineering
 **Dec 2025 - Present | Doha, Qatar**
-- Building Wood AI Documentation portal.
+- Building Wood AI Internal Documentation portal.
+- Automated custom bots for data extraction
 
 ### Software Engineer, Mannai Corporation (Doha, Qatar) 
 **Oct 2025 - Present | Doha, Qatar**
