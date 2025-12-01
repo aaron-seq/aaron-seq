@@ -82,10 +82,11 @@ Currently working on cutting-edge AI/ML projects and helping organizations lever
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 
-### AI Research Engineer, Wood Engineering
+### Associate AI Research Engineer, Wood Engineering
 **Dec 2025 - Present | Doha, Qatar**
-- Building Wood AI Internal Documentation portal.
-- Automated custom bots for data extraction and alaytics
+- Training ML models for CML asset life optimization using TensorFlow/PyTorch/MATLAB.
+- Building custom AI bots to extract relavent data fast cutting down time by ~95%.
+- Delivering a RAG-based internal document search system using LangChain/LlamaIndex with vector DBs Qdrant to cut document retrieval time by ~80%.
 
 ### Software Engineer, Mannai Corporation (Doha, Qatar) 
 **Oct 2025 - December 2025 | Doha, Qatar**
