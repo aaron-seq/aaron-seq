@@ -85,7 +85,7 @@ Currently working on cutting-edge AI/ML projects and helping organizations lever
 ### Associate AI Research Engineer, Wood Engineering
 **Dec 2025 - Present | Doha, Qatar**
 - Training ML models for CML asset life optimization using TensorFlow/PyTorch/MATLAB.
-- Building custom AI bots to extract relavent data fast cutting down time by ~95%.
+- Building custom AI bots to extract relevant data fast cutting down time by ~95%.
 - Delivering a RAG-based internal document search system using LangChain/LlamaIndex with vector DBs Qdrant to cut document retrieval time by ~80%.
 
 ### Software Engineer, Mannai Corporation (Doha, Qatar) 
