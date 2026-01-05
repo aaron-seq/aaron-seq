@@ -38,6 +38,11 @@ interests: ["RAG Systems", "Document Intelligence", "MLOps"]
 motto: "Transforming complex challenges into elegant solutions"
 currently_learning: ["Advanced Agentic AI", "Kubernetes", "Quantum ML"]
 fun_fact: "I debug with coffee and deploy with confidence ☕"
+  github_streak: "Active contributor with consistent daily commits"
+  favorite_stack: "Python + FastAPI + React + Docker + PostgreSQL"
+  deployment_platforms: ["Railway", "Vercel", "Render", "Azure"]
+  open_source: "Contributing to LangChain, OpenHands, Sentry ecosystems"
+  coding_philosophy: "Clean code, comprehensive docs, test-driven development"
 ```
 
 <br>
@@ -186,6 +191,27 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Repositories**
+
+<div align="center">
+
+### 🚀 Quick Access to My Best Work
+
+[![GenAI Browser Tool](https://img.shields.io/badge/🥇_GenAI_Browser_Tool-1st_Place_Winner-gold?style=for-the-badge)](https://github.com/aaron-seq/GenAI-Browser-Tool)
+[![AI Traffic System](https://img.shields.io/badge/🥉_AI_Traffic_Management-3rd_Place-bronze?style=for-the-badge)](https://github.com/aaron-seq/AI-ML-Based-traffic-management-system)
+[![Document Intelligence](https://img.shields.io/badge/🏢_LLM_Doc_Intelligence-Enterprise_Grade-blue?style=for-the-badge)](https://github.com/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system)
+[![Smart Home IoT](https://img.shields.io/badge/🏆_NexusHome_IoT-Best_Prototype-green?style=for-the-badge)](https://github.com/aaron-seq/NexusHome_IoT)
+
+| Repository | Description | Tech Stack | Stars |
+|------------|-------------|------------|-------|
+| [**GenAI-Browser-Tool**](https://github.com/aaron-seq/GenAI-Browser-Tool) | 🥇 Award-winning browser automation with GenAI | JavaScript, RAG | ![Stars](https://img.shields.io/github/stars/aaron-seq/GenAI-Browser-Tool?style=social) |
+| [**AI-ML-Traffic-System**](https://github.com/aaron-seq/AI-ML-Based-traffic-management-system) | 🚦 Intelligent traffic management with IoT | Python, Computer Vision | ![Stars](https://img.shields.io/github/stars/aaron-seq/AI-ML-Based-traffic-management-system?style=social) |
+| [**LLM-Document-Intelligence**](https://github.com/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system) | 📄 Enterprise document processing with Azure AI | Python, React, Azure | ![Stars](https://img.shields.io/github/stars/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system?style=social) |
+| [**NexusHome-IoT**](https://github.com/aaron-seq/NexusHome_IoT) | 🏠 Smart home energy management | C#, .NET, IoT | ![Stars](https://img.shields.io/github/stars/aaron-seq/NexusHome_IoT?style=social) |
+| [**Roneira-AI-HIFI**](https://github.com/aaron-seq/Roneira-AI-HIFI) | 📈 AI-driven stock predictions | HTML, Python, ML | ![Stars](https://img.shields.io/github/stars/aaron-seq/Roneira-AI-HIFI?style=social) |
+
+</div>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
 
