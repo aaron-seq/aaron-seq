@@ -16,7 +16,7 @@
   <a href="https://github.com/aaron-seq?tab=repositories">
     <img src="https://img.shields.io/badge/Total%20Repos-30+-yellow?style=for-the-badge&logo=github" alt="Total Repos" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-brightgreen?style=for-the-badge&logo=tensorflow" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-brightgreen?style=for-the-badge&amp;logo=tensorflow" alt="Focus" />
 </p>
 
 </div>
