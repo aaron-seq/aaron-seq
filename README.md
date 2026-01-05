@@ -1,6 +1,4 @@
 <div align="center">
-# Aaron Sequeira
-### Full-Stack AI Engineer | Technical Consultant | Innovation Architect
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Applications+That+Scale;Transforming+Ideas+Into+Production-Ready+Solutions;Architecting+AI-Powered+Digital+Experiences;Driving+Innovation+Through+Code+and+Intelligence)](https://git.io/typing-svg)
 
