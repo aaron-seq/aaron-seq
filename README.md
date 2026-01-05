@@ -390,10 +390,10 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 <br><br>
 
 **If you find my work helpful, consider:**
-- ⭐ Starring my repositories
-- 🍴 Forking and contributing
-- 📢 Sharing with your network
-- 💬 Providing feedback
+- Starring my repositories
+- Forking and contributing
+- Sharing with your network
+- roviding feedback
 
 <br>
 
@@ -441,17 +441,17 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**Thanks for visiting! ⭐ Star some repos if you find them interesting!**
+**Thanks for visiting! Star some repos if you find them interesting!**
 
 <br>
 
-<img src="https://visitcount.itsvg.in/api?id=aaron-seq&label=Profile%20Views&color=0&icon=5&pretty=true" />
+<img src="https://visitct.itsvg.in/api?id=aaron-seq&label=Profile%20Views&color=0&icon=5&pretty=true" />
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-**Made with ❤️ by Aaron Sequeira**
+**Made with by Aaron Sequeira**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
