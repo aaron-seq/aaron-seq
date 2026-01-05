@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Applications+That+Scale;Transforming+Ideas+Into+Production-Ready+Solutions;Architecting+AI-Powered+Digital+Experiences;Driving+Innovation+Through+Code+and+Intelligence)](https://git.io/typing-svg)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaron%20Sequeira&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20AI%20Engineer%20%26%20Consultant%20|%20Innovation%20Architect&descSize=16&descAlignY=51"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Applications+That+Scale;Transforming+Ideas+Into+Production-Ready+Solutions;Architecting+AI-Powered+Digital+Experiences;Driving+Innovation+Through+Code+%26+Intelligence" alt="Typing SVG" />
