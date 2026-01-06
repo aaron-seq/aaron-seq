@@ -139,7 +139,7 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=GenAI-Browser-Tool&theme=tokyonight&hide_border=true" />
         </a>
         <br><br>
-        <p><b>🥇 1st Place - LearnIT Hackathon</b></p>
+        <p><b> 1st Place - LearnIT Hackathon</b></p>
         <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat"/>
@@ -151,7 +151,7 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=AI-ML-Based-traffic-management-system&theme=tokyonight&hide_border=true" />
         </a>
         <br><br>
-        <p><b>🥉 3rd Place - University Hackathon 8.0</b></p>
+        <p><b> 3rd Place - University Hackathon 8.0</b></p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Computer_Vision-5C5C5C?style=flat"/>
         <img src="https://img.shields.io/badge/IoT-00979D?style=flat"/>
@@ -301,7 +301,7 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 |-------------|-------|----------|------|
 | 🥇 **1st Place** | LearnIT Hackathon | Gen-AI Browser Tool | 2024 |
 | 🥉 **3rd Place** | University Hackathon 8.0 | AI Traffic Management | 2023 |
-| 🏆 **Best Prototype** | ACM Mini Hacks 2.0 | Smart Home Energy (C#/.NET) | 2023 |
+| **Best Prototype** | ACM Mini Hacks 2.0 | Smart Home Energy (C#/.NET) | 2023 |
 | 👨‍💼 **Leadership** | GDSC & ACM Lead | Technical Operations | 2022-2024 |
 | 🎓 **Merit Scholarship** | SPDC (Qatar Govt & Indian Embassy) | Academic Excellence | 2021-2025 |
 
