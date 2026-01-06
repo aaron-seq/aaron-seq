@@ -127,76 +127,11 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="35"> **Showcase Projects**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/aaron-seq/GenAI-Browser-Tool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=GenAI-Browser-Tool&theme=tokyonight&hide_border=true" />
-        </a>
-        <br><br>
-        <p><b> 1st Place - LearnIT Hackathon</b></p>
-        <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/aaron-seq/AI-ML-Based-traffic-management-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=AI-ML-Based-traffic-management-system&theme=tokyonight&hide_border=true" />
-        </a>
-        <br><br>
-        <p><b> 3rd Place - University Hackathon 8.0</b></p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-5C5C5C?style=flat"/>
-        <img src="https://img.shields.io/badge/IoT-00979D?style=flat"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/aaron-seq/LLM-powered-document-intelligence-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=LLM-powered-document-intelligence-system&theme=tokyonight&hide_border=true" />
-        </a>
-        <br><br>
-        <p><b>🏢 Baker Hughes Enterprise System</b></p>
-        <img src="https://img.shields.io/badge/Azure_AI-0089D6?style=flat&logo=microsoft-azure"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/aaron-seq/NexusHome_IoT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaron-seq&repo=NexusHome_IoT&theme=tokyonight&hide_border=true" />
-        </a>
-        <br><br>
-        <p><b>🏆 Best Prototype - ACM Mini Hacks</b></p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-00979D?style=flat"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Repositories**
 
 <div align="center">
 
-### 🚀 Quick Access to My Best Work
+### Quick Access to My Best Work
 
 [![GenAI Browser Tool](https://img.shields.io/badge/🥇_GenAI_Browser_Tool-1st_Place_Winner-gold?style=for-the-badge)](https://github.com/aaron-seq/GenAI-Browser-Tool)
 [![AI Traffic System](https://img.shields.io/badge/🥉_AI_Traffic_Management-3rd_Place-bronze?style=for-the-badge)](https://github.com/aaron-seq/AI-ML-Based-traffic-management-system)
@@ -205,11 +140,11 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 
 | Repository | Description | Tech Stack | Stars |
 |------------|-------------|------------|-------|
-| [**GenAI-Browser-Tool**](https://github.com/aaron-seq/GenAI-Browser-Tool) | 🥇 Award-winning browser automation with GenAI | JavaScript, RAG | ![Stars](https://img.shields.io/github/stars/aaron-seq/GenAI-Browser-Tool?style=social) |
-| [**AI-ML-Traffic-System**](https://github.com/aaron-seq/AI-ML-Based-traffic-management-system) | 🚦 Intelligent traffic management with IoT | Python, Computer Vision | ![Stars](https://img.shields.io/github/stars/aaron-seq/AI-ML-Based-traffic-management-system?style=social) |
-| [**LLM-Document-Intelligence**](https://github.com/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system) | 📄 Enterprise document processing with Azure AI | Python, React, Azure | ![Stars](https://img.shields.io/github/stars/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system?style=social) |
-| [**NexusHome-IoT**](https://github.com/aaron-seq/NexusHome_IoT) | 🏠 Smart home energy management | C#, .NET, IoT | ![Stars](https://img.shields.io/github/stars/aaron-seq/NexusHome_IoT?style=social) |
-| [**Roneira-AI-HIFI**](https://github.com/aaron-seq/Roneira-AI-HIFI) | 📈 AI-driven stock predictions | HTML, Python, ML | ![Stars](https://img.shields.io/github/stars/aaron-seq/Roneira-AI-HIFI?style=social) |
+| [**GenAI-Browser-Tool**](https://github.com/aaron-seq/GenAI-Browser-Tool) | Award-winning browser automation with GenAI | JavaScript, RAG | ![Stars](https://img.shields.io/github/stars/aaron-seq/GenAI-Browser-Tool?style=social) |
+| [**AI-ML-Traffic-System**](https://github.com/aaron-seq/AI-ML-Based-traffic-management-system) | Intelligent traffic management with IoT | Python, Computer Vision | ![Stars](https://img.shields.io/github/stars/aaron-seq/AI-ML-Based-traffic-management-system?style=social) |
+| [**LLM-Document-Intelligence**](https://github.com/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system) |  Enterprise document processing with Azure AI | Python, React, Azure | ![Stars](https://img.shields.io/github/stars/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system?style=social) |
+| [**NexusHome-IoT**](https://github.com/aaron-seq/NexusHome_IoT) | Smart home energy management | C#, .NET, IoT | ![Stars](https://img.shields.io/github/stars/aaron-seq/NexusHome_IoT?style=social) |
+| [**Roneira-AI-HIFI**](https://github.com/aaron-seq/Roneira-AI-HIFI) | AI-driven stock predictions | HTML, Python, ML | ![Stars](https://img.shields.io/github/stars/aaron-seq/Roneira-AI-HIFI?style=social) |
 
 </div>
 
