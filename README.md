@@ -100,7 +100,7 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> AI Research Engineer (Contract) | Wood Engineering
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> AI Engineer (Contract) | Wood Engineering
 **Dec 2025 - Present | Doha, Qatar 🇶🇦**
 
 - **Asset Optimization:** Training ML models (TensorFlow/PyTorch/MATLAB) for CML asset life optimization.
