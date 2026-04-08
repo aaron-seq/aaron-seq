@@ -30,7 +30,7 @@
 ```yaml
 name: Aaron Sequeira
 located_in: Qatar 🇶🇦 | India 🇮🇳
-current_role: AI Research Engineer (Contract) @ Wood Engineering
+current_role: Full Stack Developer @ Smarter.codes
 education: B.Tech IT, Manipal University (CGPA: 7.93)
 company: Wood Engineering | Ex-Mannai Corp | Ex-Baker Hughes
 achievements: ["1st Place LearnIT Hackathon", "3rd Place University Hack"]
@@ -99,6 +99,16 @@ fun_fact: "I debug with coffee and deploy with confidence ☕"
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
 </div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Full Stack Development | Smarter.Codes
+**April 2026 - Present | Remote - IN**
+
+- **Software Architecture:** Architecting full-stack applications with Frappe for Makerz.Network, an AI-powered learning platform integrating task management, LMS, and skill tracking using PostgreSQL pgvector for semantic search for intelligent skill assessment and personalized learning
+recommendations with sub-100ms vector similarity search.
+- **AI Chatbot:** Developing high-security LLM-based chatbot for banking system FAQs with compliance with financial data protection regulations.
+- **Testing:** Used playwright for UI automation testing
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" align="right">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> AI Engineer (Contract) | Wood Engineering
 **Dec 2025 - Present | Doha, Qatar 🇶🇦**
