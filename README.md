@@ -111,7 +111,7 @@ recommendations with sub-100ms vector similarity search.
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" align="right">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> AI Engineer (Contract) | Wood Engineering
-**Dec 2025 - Present | Doha, Qatar 🇶🇦**
+**Nov 2025 - Present | Doha, Qatar 🇶🇦**
 
 - **Asset Optimization:** Training ML models (TensorFlow/PyTorch/MATLAB) for CML asset life optimization.
 - **AI Automation:** Built custom AI bots to extract relevant data, cutting processing time by **97%**.
@@ -120,7 +120,7 @@ recommendations with sub-100ms vector similarity search.
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" align="right">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Software Engineer | Mannai Corporation (Lanco Engineering)
-**Oct 2025 - Dec 2025 | Doha, Qatar 🇶🇦**
+**Oct 2025 - Nov 2025 | Doha, Qatar 🇶🇦**
 
 - **Security AI:** Integrated AI monitoring for Border Information System across **1100+ AXIS cameras** via Milestone VMS & Ipsotek.
 - **Computer Vision:** Deployed YOLO/TensorFlow models in Docker containers for real-time violation analysis, reducing false alerts by **11%**.
