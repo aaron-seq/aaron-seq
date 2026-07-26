@@ -11,7 +11,7 @@ export function Experience() {
         <SectionHeading
           index="02"
           title="Experience"
-          lead="Industrial inspection, national security infrastructure, oilfield services and product engineering — four very different constraint sets."
+          lead="Enterprise SaaS, industrial inspection, national security infrastructure and oilfield services — four very different constraint sets."
         />
 
         <div className="relative">

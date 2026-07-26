@@ -2,9 +2,9 @@
 
 # Aaron Sequeira
 
-**AI / Full-Stack Engineer** — RAG systems, computer vision, and production ML on Azure & AWS
+**Full-Stack AI Engineer** — enterprise AI platforms, intelligent document automation, scalable architecture
 
-Doha, Qatar · Open to remote
+Qatar / India · Open to remote
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B0C10?style=flat-square&logo=vercel&logoColor=white)](https://aaron-sequeira.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronsequeira/)
@@ -18,16 +18,16 @@ Doha, Qatar · Open to remote
 
 ## What I do
 
-I build systems where the AI is the product, not a demo. Most of my work sits at the seam between
-a retrieval or vision model and the boring-but-critical engineering around it — ingestion pipelines,
-vector stores, auth, containers, CI/CD, and the dashboards that make the output trustworthy.
+I build production-grade React/FastAPI systems around LLM and RAG pipelines — semantic and
+graph-based retrieval, vector databases, cloud-native APIs and enterprise knowledge platforms —
+and own the architecture decisions that keep them fast and maintainable.
 
 Recent shipping surface:
 
-- **Retrieval-augmented search** over enterprise document corpora (LangChain / LlamaIndex, Qdrant, pgvector, ChromaDB)
+- **Enterprise AI architecture** — LLM/RAG pipelines, semantic search, pgvector, graph-based retrieval and knowledge indexing for a production SaaS platform
+- **Intelligent document automation** — extraction, chunking, retrieval evaluation over real document estates, measured in retrieval time cut
 - **Computer vision at scale** — YOLO/TensorFlow inference across a 1,100-camera security deployment
-- **Regulated LLM products** — a banking FAQ assistant built under financial data-protection constraints
-- **Full-stack delivery** — FastAPI / Next.js / Postgres / Docker, deployed on Azure, Vercel and Railway
+- **Full-stack delivery** — React / FastAPI / PostgreSQL / Docker on Azure, shipped through GitHub Actions and tested with Playwright
 
 Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG.
 
@@ -35,24 +35,28 @@ Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG
 
 ## Experience
 
-### Full-Stack Developer — **Smarter.Codes** · Remote (India)
-`Apr 2026 – Present`
+### Full-Stack AI Engineer — **Smarter.Codes** · Remote
+`Mar 2026 – Present`
 
-- Architecting **Makerz.Network**, an AI-powered learning platform on Frappe that combines task
-  management, LMS and skill tracking; uses **PostgreSQL `pgvector`** for semantic skill assessment
-  and personalised learning recommendations with **sub-100 ms** vector similarity search.
-- Building a high-security **LLM chatbot for banking FAQs**, designed against financial
-  data-protection and compliance requirements.
-- Owning **Playwright** UI automation coverage for the platform.
+- Core contributor to **AgileWriter**, an enterprise AI document automation platform — full-stack
+  delivery across React, FastAPI, Python, TypeScript, PostgreSQL, Azure, Docker, Microsoft Graph,
+  Redux Toolkit and TailwindCSS.
+- Designed scalable AI architecture: **LLM/RAG pipelines, semantic search, `pgvector`,
+  graph-based retrieval and enterprise knowledge indexing**, enabling faster storage, retrieval
+  and contextual reasoning across enterprise knowledge bases.
+- Led architectural decision-making through **Engineering Design Reviews**, API design, system
+  architecture documentation, performance optimisation, authentication architecture and reusable
+  engineering standards for a production-scale SaaS platform.
+- Also shipping a high-security LLM assistant for banking FAQs and Playwright UI automation coverage.
 
-### AI Engineer (Contract) — **Wood Engineering** · Doha, Qatar
-`Nov 2025 – Present`
+### AI Engineer — **Wood Engineering Qatar** · Doha, Qatar
+`Nov 2025 – Mar 2026`
 
-- Training ML models (TensorFlow / PyTorch / MATLAB) for **CML asset-life optimisation** in
-  industrial inspection workflows.
-- Built custom extraction bots that cut document processing time by **97%**.
-- Delivered a **RAG-based internal document search** system (LangChain + LlamaIndex + Qdrant)
-  across 3,000+ documents, reducing retrieval time by **65%**.
+- Trained ML models (TensorFlow / PyTorch / MATLAB) for **CML asset-life optimisation** on a
+  **2,100+ sample dataset**.
+- Built custom AI bots to extract relevant data fast, cutting processing time by **97%**.
+- Delivered a **RAG-based internal document search** system (LangChain / LlamaIndex + Qdrant),
+  cutting document retrieval time by **65%**.
 
 ### Software Engineer — **Mannai Corporation** (Lanco Engineering) · Doha, Qatar
 `Oct 2025 – Nov 2025`
@@ -65,11 +69,12 @@ Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG
 ### Software Engineering Intern — **Baker Hughes** · Pune, India
 `Sep 2024 – Sep 2025`
 
-- Architected a Technical Service Portal on **Microsoft Power Platform**, reducing service
-  downtime by **70%** and accelerating compliance turnaround by **40%**.
-- Engineered an end-to-end **LLM-powered RAG document system** (Python / React / Azure AI),
+- Architected and deployed a **Technical Service Portal and Laboratory Management System** for the
+  Pune and Celle Tech Centers on **Microsoft Power Platform** and Microsoft 365 Dynamics.
+- Automated key workflows with real-time tracking and auditing, reducing service downtime by
+  **70%** and accelerating compliance validation by **40%**.
+- Engineered an end-to-end **LLM-powered document intelligence system** on a RAG architecture,
   cutting manual data entry by **75%**.
-- Shipped through **Azure CI/CD** pipelines targeting 99.9% availability.
 
 ---
 
@@ -118,18 +123,18 @@ Projects are grouped by what they demonstrate, not by language. Every link is a 
 
 **Languages** — Python · TypeScript · JavaScript · C# · C++ · Java · MATLAB · SQL · Bash
 
-**AI / ML** — LangChain · LlamaIndex · OpenAI & Azure OpenAI · PyTorch · TensorFlow · scikit-learn ·
-YOLOv8 · OpenCV · sentence-transformers · RAG pipelines · retrieval evaluation
+**AI / ML** — LLMs · RAG · LangChain · LlamaIndex · prompt engineering · graph-based retrieval ·
+OpenAI & Azure OpenAI · PyTorch · TensorFlow · scikit-learn · XGBoost · YOLO · OpenCV · sentence-transformers
 
-**Backend** — FastAPI · Django · Flask · Node.js / Express · ASP.NET Core · Frappe · REST · WebSockets · Celery
+**Backend** — FastAPI · Django · Flask · Node.js / Express.js · ASP.NET Core · Microsoft Graph · REST · WebSockets · Celery
 
-**Frontend** — React 19 · Next.js · Redux · TanStack Query · Zustand · Tailwind CSS · Framer Motion
+**Frontend** — React · Next.js · Redux Toolkit · TanStack Query · Zustand · Tailwind CSS · Framer Motion
 
 **Data** — PostgreSQL (+ pgvector) · MongoDB · MySQL · Redis · SQLite · InfluxDB · Qdrant · ChromaDB · Supabase
 
-**Cloud & DevOps** — Azure · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · Vercel · Railway · Render · Power Platform
+**Cloud & DevOps** — Azure · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · Vercel · Railway · Power Platform
 
-**Testing** — Playwright · Pytest · Vitest
+**Testing & tooling** — Playwright · Pytest · Vitest · JIRA · Postman
 
 ---
 
@@ -141,10 +146,10 @@ YOLOv8 · OpenCV · sentence-transformers · RAG pipelines · retrieval evaluati
 | **75%** less manual data entry | Baker Hughes — LLM document pipeline |
 | **70%** less service downtime | Baker Hughes — Technical Service Portal |
 | **65%** faster document retrieval | Wood Engineering — RAG search |
-| **40%** faster compliance turnaround | Baker Hughes — Power Platform automation |
+| **40%** faster compliance validation | Baker Hughes — Power Platform automation |
 | **11%** fewer false security alerts | Mannai — containerised CV models |
 | **1,100+** cameras under AI monitoring | Mannai — Border Information System |
-| **<100 ms** vector similarity search | Smarter.Codes — pgvector skill matching |
+| **110+** students mentored on RAG & LangChain | ACM Lead, Manipal University Jaipur |
 
 ---
 
@@ -156,9 +161,12 @@ YOLOv8 · OpenCV · sentence-transformers · RAG pipelines · retrieval evaluati
 | 🥉 3rd place | University Hackathon 8.0 | AI Traffic Management | 2023 |
 | 🏆 Best prototype | ACM Mini Hacks 2.0 | NexusHome smart-home energy (C#/.NET) | 2023 |
 | 🎓 Merit scholarship | SPDC — Qatar Govt & Indian Embassy | Academic excellence | 2021–2025 |
-| — | GDSC & ACM | Technical operations lead | 2022–2024 |
+| GDSC & ACM Lead | Google Developer Student Club & ACM | Led technical ops for Hacktoberfest; mentored **110+ students** on RAG & LangChain | 2022–2024 |
 
-**Education** — B.Tech, Information Technology · Manipal University · CGPA 7.93
+**Education**
+B.Tech, Information Technology · Manipal University Jaipur · CGPA 7.93 · 2021–2025
+_Relevant coursework: OOP, Data Structures & Algorithm Analysis, Machine Learning, Web Technologies_
+Birla Public School, Doha · Class 12: 90.6% · Class 10: 89.6%
 
 **Competitive programming** — 1,600+ LeetCode rating · 5★ HackerRank
 ([LeetCode](https://leetcode.com/u/AaronSeq/) · [HackerRank](https://www.hackerrank.com/profile/aaronsequeira12))

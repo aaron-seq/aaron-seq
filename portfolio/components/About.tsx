@@ -5,20 +5,20 @@ import { profile } from "@/lib/data";
 
 const focus = [
   {
-    title: "Retrieval-augmented systems",
-    body: "Chunking strategy, embedding choice, hybrid retrieval and evaluation — over corpora in the thousands of documents, not toy datasets. LangChain, LlamaIndex, Qdrant, pgvector, ChromaDB.",
+    title: "Enterprise AI architecture",
+    body: "Designing the AI layer of a production SaaS platform end to end — LLM and RAG pipelines, semantic search, pgvector, graph-based retrieval and enterprise knowledge indexing — and defending those choices in Engineering Design Reviews.",
+  },
+  {
+    title: "Intelligent document automation",
+    body: "Turning unstructured document estates into something queryable: extraction, chunking strategy, embedding choice and retrieval evaluation over thousands of real documents. Measured in retrieval time cut, not benchmark scores.",
   },
   {
     title: "Computer vision in production",
-    body: "YOLO and TensorFlow models containerised and deployed against a live 1,100-camera security estate, tuned to cut false alerts rather than just win on a benchmark.",
-  },
-  {
-    title: "Regulated LLM products",
-    body: "A banking FAQ assistant designed against financial data-protection requirements: guarded retrieval, PII handling, auditability and access control from the first commit.",
+    body: "YOLO and TensorFlow models containerised and deployed against a live 1,100-camera security estate, tuned to cut false alerts rather than just win on a validation split.",
   },
   {
     title: "The full delivery path",
-    body: "FastAPI and Next.js services with Postgres and Redis behind them, packaged in Docker, shipped through Azure DevOps and GitHub Actions, tested with Playwright and Pytest.",
+    body: "React and FastAPI services with PostgreSQL behind them, packaged in Docker, shipped on Azure through GitHub Actions, tested with Playwright and Pytest — plus the API design, auth architecture and engineering standards that keep them maintainable.",
   },
 ];
 
@@ -56,10 +56,14 @@ export function About() {
               </p>
               <p className="mt-3 text-mist-100">{profile.education.degree}</p>
               <p className="mt-1 text-sm text-mist-400">
-                {profile.education.school} · {profile.education.detail}
-              </p>
-              <p className="mt-1 text-sm text-mist-400/70">
+                {profile.education.school} · {profile.education.detail} ·{" "}
                 {profile.education.years}
+              </p>
+              <p className="mt-2 text-xs leading-relaxed text-mist-400/70">
+                {profile.education.courses}
+              </p>
+              <p className="mt-2 text-xs leading-relaxed text-mist-400/70">
+                {profile.education.school2} · {profile.education.school2Detail}
               </p>
             </div>
             <div>

@@ -1,17 +1,17 @@
 export const profile = {
   name: "Aaron Sequeira",
   fullName: "Aaron Emmanuel Xavier Sequeira",
-  role: "AI / Full-Stack Engineer",
-  location: "Doha, Qatar",
+  role: "Full-Stack AI Engineer",
+  location: "Qatar / India",
   availability: "Open to AI engineering & full-stack roles — remote or Gulf-based",
   tagline: [
-    "RAG systems that survive real corpora.",
+    "Enterprise AI platforms, architected end to end.",
+    "RAG and graph retrieval over real knowledge bases.",
+    "Intelligent document automation at production scale.",
     "Computer vision across 1,100+ cameras.",
-    "LLM products under compliance constraints.",
-    "Full-stack delivery, end to end.",
   ],
   summary:
-    "I build systems where the AI is the product, not the demo. Most of my work sits at the seam between a retrieval or vision model and the engineering that makes it dependable — ingestion pipelines, vector stores, auth, containers, CI/CD, and the dashboards that make output trustworthy.",
+    "Full-Stack AI Engineer specialising in enterprise AI platforms, intelligent document automation and scalable software architecture. I build production-grade React/FastAPI systems around LLM and RAG pipelines — semantic and graph-based retrieval, vector databases, cloud-native APIs — and own the architecture decisions that keep them fast and maintainable.",
   email: "aaronsequeira12@gmail.com",
   phones: ["+974 66900150", "+91 99877 26291"],
   links: {
@@ -23,9 +23,13 @@ export const profile = {
   },
   education: {
     degree: "B.Tech, Information Technology",
-    school: "Manipal University",
+    school: "Manipal University Jaipur",
     detail: "CGPA 7.93",
     years: "2021 – 2025",
+    courses:
+      "OOP · Data Structures & Algorithm Analysis · Machine Learning · Web Technologies",
+    school2: "Birla Public School, Doha",
+    school2Detail: "Class 12: 90.6% · Class 10: 89.6%",
   },
 };
 
@@ -50,32 +54,42 @@ export type Experience = {
 export const experience: Experience[] = [
   {
     company: "Smarter.Codes",
-    role: "Full-Stack Developer",
-    period: "Apr 2026 — Present",
-    location: "Remote · India",
+    role: "Full-Stack AI Engineer",
+    period: "Mar 2026 — Present",
+    location: "Remote",
     current: true,
     summary:
-      "Architecting an AI-powered learning platform and a compliance-grade banking assistant.",
+      "Core contributor to AgileWriter, an enterprise AI document automation platform.",
     points: [
-      "Architecting Makerz.Network, an AI learning platform on Frappe combining task management, LMS and skill tracking.",
-      "Built semantic skill assessment on PostgreSQL pgvector with sub-100 ms vector similarity search driving personalised learning recommendations.",
-      "Developing a high-security LLM chatbot for banking FAQs, designed against financial data-protection requirements.",
-      "Own Playwright UI automation coverage across the platform.",
+      "Building full-stack capability across AgileWriter with React, FastAPI, Python, TypeScript, PostgreSQL, Azure, Docker, Microsoft Graph, Redux Toolkit and TailwindCSS.",
+      "Designed the AI architecture: LLM/RAG pipelines, semantic search, pgvector, graph-based retrieval and enterprise knowledge indexing — enabling contextual reasoning across enterprise knowledge bases.",
+      "Led architectural decision-making through Engineering Design Reviews, API design, system architecture documentation and authentication architecture for a production-scale SaaS platform.",
+      "Set reusable engineering standards and drove performance optimisation across the platform.",
+      "Also shipping a high-security LLM assistant for banking FAQs and Playwright UI automation coverage.",
     ],
-    stack: ["Frappe", "Python", "PostgreSQL", "pgvector", "LLMs", "Playwright"],
+    stack: [
+      "React",
+      "FastAPI",
+      "TypeScript",
+      "PostgreSQL",
+      "pgvector",
+      "Azure",
+      "Docker",
+      "Microsoft Graph",
+      "Redux Toolkit",
+    ],
   },
   {
-    company: "Wood Engineering",
-    role: "AI Engineer (Contract)",
-    period: "Nov 2025 — Present",
+    company: "Wood Engineering Qatar",
+    role: "AI Engineer",
+    period: "Nov 2025 — Mar 2026",
     location: "Doha, Qatar",
-    current: true,
     summary:
       "ML for industrial asset-life optimisation, plus a RAG search layer over the internal document estate.",
     points: [
-      "Training TensorFlow / PyTorch / MATLAB models for CML (Condition Monitoring Location) asset-life optimisation.",
-      "Built custom AI extraction bots that cut document processing time by 97%.",
-      "Delivered a RAG-based internal document search system across 3,000+ documents, reducing retrieval time by 65%.",
+      "Trained TensorFlow / PyTorch / MATLAB models for CML (Condition Monitoring Location) asset-life optimisation on a 2,100+ sample dataset.",
+      "Built custom AI bots to extract relevant data fast, cutting processing time by 97%.",
+      "Delivered a RAG-based internal document search system (LangChain / LlamaIndex + Qdrant), cutting document retrieval time by 65%.",
     ],
     stack: ["PyTorch", "TensorFlow", "MATLAB", "LangChain", "LlamaIndex", "Qdrant"],
   },
@@ -99,13 +113,13 @@ export const experience: Experience[] = [
     period: "Sep 2024 — Sep 2025",
     location: "Pune, India",
     summary:
-      "Process automation and document intelligence for technical service operations.",
+      "Process automation and document intelligence for the Pune and Celle tech centres.",
     points: [
-      "Architected a Technical Service Portal on Microsoft Power Platform, reducing service downtime by 70% and accelerating compliance turnaround by 40%.",
-      "Engineered an end-to-end LLM-powered RAG document system (Python / React / Azure AI), cutting manual data entry by 75%.",
-      "Shipped through Azure CI/CD pipelines targeting 99.9% availability.",
+      "Architected and deployed a Technical Service Portal and Laboratory Management System for the Pune and Celle Tech Centers on Microsoft Power Platform.",
+      "Automated key workflows with real-time tracking and auditing, reducing service downtime by 70% and accelerating compliance validation by 40%.",
+      "Engineered an end-to-end LLM-powered document intelligence system on a RAG architecture, cutting manual data entry by 75%.",
     ],
-    stack: ["Power Platform", "Python", "React", "Azure AI", "Azure DevOps"],
+    stack: ["Power Platform", "Microsoft 365 Dynamics", "Python", "React", "Azure AI"],
   },
 ];
 
@@ -147,7 +161,7 @@ export const projects: Project[] = [
     name: "Roneira AI HIFI",
     blurb: "Stock forecasting and portfolio platform that surfaces model disagreement.",
     detail:
-      "A six-model ensemble — RandomForest, LSTM, GAN, technical rules and a price-volume momentum engine — that shows where models disagree instead of averaging predictions away. Atomic buy/sell transactions, append-only audit log, row-level security.",
+      "A multi-model ML ensemble — RandomForest, XGBoost, LSTM, GAN, technical rules and a price-volume momentum engine across 50+ technical indicators — that shows where models disagree instead of averaging predictions away. Atomic buy/sell transactions, append-only audit log, row-level security.",
     stack: ["Next.js 16", "React 19", "FastAPI", "Supabase", "Upstash Redis"],
     category: "Full-Stack & Platform",
     repo: "https://github.com/aaron-seq/Roneira-AI-HIFI",
@@ -306,25 +320,28 @@ export const skills: { group: string; items: string[] }[] = [
   {
     group: "AI & Machine Learning",
     items: [
+      "LLMs",
+      "RAG pipelines",
       "LangChain",
       "LlamaIndex",
-      "OpenAI / Azure OpenAI",
+      "Prompt engineering",
+      "Graph-based retrieval",
       "PyTorch",
       "TensorFlow",
       "scikit-learn",
-      "YOLOv8",
+      "XGBoost",
+      "YOLO",
       "OpenCV",
       "sentence-transformers",
-      "RAG pipelines",
     ],
   },
   {
     group: "Backend",
-    items: ["FastAPI", "Django", "Flask", "Node.js", "Express", "ASP.NET Core", "Frappe", "Celery", "WebSockets"],
+    items: ["FastAPI", "Django", "Flask", "Node.js", "Express.js", "ASP.NET Core", "Microsoft Graph", "Celery", "WebSockets"],
   },
   {
     group: "Frontend",
-    items: ["React 19", "Next.js", "Redux", "TanStack Query", "Zustand", "Tailwind CSS", "Framer Motion"],
+    items: ["React", "Next.js", "Redux Toolkit", "TanStack Query", "Zustand", "Tailwind CSS", "Framer Motion"],
   },
   {
     group: "Data & Vector Stores",
@@ -335,8 +352,8 @@ export const skills: { group: string; items: string[] }[] = [
     items: ["Azure", "AWS", "Docker", "Kubernetes", "GitHub Actions", "Jenkins", "Vercel", "Railway", "Power Platform"],
   },
   {
-    group: "Testing",
-    items: ["Playwright", "Pytest", "Vitest"],
+    group: "Testing & Tooling",
+    items: ["Playwright", "Pytest", "Vitest", "JIRA", "Postman", "GitHub Actions"],
   },
 ];
 
@@ -345,10 +362,10 @@ export const impact = [
   { metric: "75%", label: "less manual data entry", where: "Baker Hughes · LLM document pipeline" },
   { metric: "70%", label: "less service downtime", where: "Baker Hughes · Technical Service Portal" },
   { metric: "65%", label: "faster document retrieval", where: "Wood Engineering · RAG search" },
-  { metric: "40%", label: "faster compliance turnaround", where: "Baker Hughes · Power Platform" },
+  { metric: "40%", label: "faster compliance validation", where: "Baker Hughes · Power Platform" },
   { metric: "11%", label: "fewer false security alerts", where: "Mannai · containerised CV models" },
   { metric: "1,100+", label: "cameras under AI monitoring", where: "Mannai · Border Information System" },
-  { metric: "<100ms", label: "vector similarity search", where: "Smarter.Codes · pgvector matching" },
+  { metric: "110+", label: "students mentored on RAG & LangChain", where: "ACM Lead · Manipal University Jaipur" },
 ];
 
 export const awards = [
@@ -356,7 +373,7 @@ export const awards = [
   { title: "3rd place", event: "University Hackathon 8.0", work: "AI Traffic Management", year: "2023" },
   { title: "Best prototype", event: "ACM Mini Hacks 2.0", work: "NexusHome smart-home energy", year: "2023" },
   { title: "Merit scholarship", event: "SPDC — Qatar Govt & Indian Embassy", work: "Academic excellence", year: "2021–2025" },
-  { title: "Technical operations lead", event: "GDSC & ACM", work: "Community & events leadership", year: "2022–2024" },
+  { title: "GDSC & ACM Lead", event: "Google Developer Student Club & ACM", work: "Led technical ops for Hacktoberfest; mentored 110+ students on RAG & LangChain", year: "2022–2024" },
 ];
 
 export const sections = [
