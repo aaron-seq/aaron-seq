@@ -3,9 +3,9 @@ import "./globals.css";
 import { profile } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Aaron Sequeira — AI / Full-Stack Engineer",
+  title: "Aaron Sequeira — Full-Stack AI Engineer",
   description:
-    "AI and full-stack engineer building RAG systems, computer vision pipelines and production ML. Experience across Wood Engineering, Mannai Corporation, Baker Hughes and Smarter.Codes.",
+    "Full-Stack AI Engineer specialising in enterprise AI platforms, intelligent document automation and scalable architecture. Experience across Smarter.Codes, Wood Engineering Qatar, Mannai Corporation and Baker Hughes.",
   keywords: [
     "Aaron Sequeira",
     "AI Engineer",
@@ -19,16 +19,16 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: profile.name, url: profile.links.github }],
   openGraph: {
-    title: "Aaron Sequeira — AI / Full-Stack Engineer",
+    title: "Aaron Sequeira — Full-Stack AI Engineer",
     description:
-      "RAG systems, computer vision at fleet scale, and LLM products built under compliance constraints.",
+      "Enterprise AI platforms, RAG and graph retrieval, intelligent document automation at production scale.",
     type: "profile",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Aaron Sequeira — AI / Full-Stack Engineer",
+    title: "Aaron Sequeira — Full-Stack AI Engineer",
     description:
-      "RAG systems, computer vision at fleet scale, and LLM products built under compliance constraints.",
+      "Enterprise AI platforms, RAG and graph retrieval, intelligent document automation at production scale.",
   },
 };
 

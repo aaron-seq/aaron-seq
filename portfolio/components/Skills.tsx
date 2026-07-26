@@ -11,16 +11,16 @@ const marquee = [
   "FastAPI",
   "Next.js",
   "PyTorch",
-  "YOLOv8",
-  "Azure AI",
+  "YOLO",
+  "Azure",
   "Docker",
-  "Kubernetes",
+  "Microsoft Graph",
   "PostgreSQL",
   "Redis",
   "Playwright",
   "TensorFlow",
-  "ChromaDB",
-  "Supabase",
+  "XGBoost",
+  "React",
 ];
 
 export function Skills() {

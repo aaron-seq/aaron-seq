@@ -37,7 +37,7 @@ export const headlineStats = [
   { value: "4", label: "Engineering roles", sub: "Baker Hughes → Mannai → Wood → Smarter.Codes" },
   { value: "29+", label: "Public repositories", sub: "AI, CV, full-stack, IoT" },
   { value: "1,100+", label: "Cameras under AI monitoring", sub: "National border system" },
-  { value: "3", label: "Hackathon podiums", sub: "Including a 1st place" },
+  { value: "110+", label: "Students mentored", sub: "RAG & LangChain, as ACM Lead" },
 ];
 
 export type Experience = {

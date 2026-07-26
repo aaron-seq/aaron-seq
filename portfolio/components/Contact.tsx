@@ -31,9 +31,9 @@ export function Contact() {
             <br className="hidden sm:block" /> that ships.
           </h2>
           <p className="relative mx-auto mt-6 max-w-xl text-mist-400 leading-relaxed">
-            {profile.availability}. I&rsquo;m most useful where retrieval, vision
-            or agentic systems have to survive contact with real users and real
-            compliance requirements.
+            {profile.availability}. I&rsquo;m most useful where enterprise AI
+            systems have to survive contact with real users, real corpora and
+            real compliance requirements.
           </p>
 
           <div className="relative mt-9 flex flex-wrap justify-center gap-3">
