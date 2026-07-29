@@ -2,7 +2,7 @@
 
 # Aaron Sequeira
 
-**Full-Stack AI Engineer** — enterprise AI platforms, intelligent document automation, scalable architecture
+**Full-Stack AI Engineer**  enterprise AI platforms, intelligent document automation, scalable architecture
 
 Qatar / India · Open to remote
 
@@ -18,16 +18,16 @@ Qatar / India · Open to remote
 
 ## What I do
 
-I build production-grade React/FastAPI systems around LLM and RAG pipelines — semantic and
-graph-based retrieval, vector databases, cloud-native APIs and enterprise knowledge platforms —
+I build production-grade React/FastAPI systems around LLM and RAG pipelines  semantic and
+graph-based retrieval, vector databases, cloud-native APIs and enterprise knowledge platforms 
 and own the architecture decisions that keep them fast and maintainable.
 
 Recent shipping surface:
 
-- **Enterprise AI architecture** — LLM/RAG pipelines, semantic search, pgvector, graph-based retrieval and knowledge indexing for a production SaaS platform
-- **Intelligent document automation** — extraction, chunking, retrieval evaluation over real document estates, measured in retrieval time cut
-- **Computer vision at scale** — YOLO/TensorFlow inference across a 1,100-camera security deployment
-- **Full-stack delivery** — React / FastAPI / PostgreSQL / Docker on Azure, shipped through GitHub Actions and tested with Playwright
+- **Enterprise AI architecture**  LLM/RAG pipelines, semantic search, pgvector, graph-based retrieval and knowledge indexing for a production SaaS platform
+- **Intelligent document automation**  extraction, chunking, retrieval evaluation over real document estates, measured in retrieval time cut
+- **Computer vision at scale**  YOLO/TensorFlow inference across a 1,100-camera security deployment
+- **Full-stack delivery**  React / FastAPI / PostgreSQL / Docker on Azure, shipped through GitHub Actions and tested with Playwright
 
 Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG.
 
@@ -35,10 +35,10 @@ Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG
 
 ## Experience
 
-### Full-Stack AI Engineer — **Smarter.Codes** · Remote
+### Full-Stack AI Engineer  **Smarter.Codes** · Remote
 `Mar 2026 – Present`
 
-- Core contributor to **AgileWriter**, an enterprise AI document automation platform — full-stack
+- Core contributor to **AgileWriter**, an enterprise AI document automation platform  full-stack
   delivery across React, FastAPI, Python, TypeScript, PostgreSQL, Azure, Docker, Microsoft Graph,
   Redux Toolkit and TailwindCSS.
 - Designed scalable AI architecture: **LLM/RAG pipelines, semantic search, `pgvector`,
@@ -49,7 +49,7 @@ Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG
   engineering standards for a production-scale SaaS platform.
 - Also shipping a high-security LLM assistant for banking FAQs and Playwright UI automation coverage.
 
-### AI Engineer — **Wood Engineering Qatar** · Doha, Qatar
+### AI Engineer  **Wood Engineering Qatar** · Doha, Qatar
 `Nov 2025 – Mar 2026`
 
 - Trained ML models (TensorFlow / PyTorch / MATLAB) for **CML asset-life optimisation** on a
@@ -58,7 +58,7 @@ Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG
 - Delivered a **RAG-based internal document search** system (LangChain / LlamaIndex + Qdrant),
   cutting document retrieval time by **65%**.
 
-### Software Engineer — **Mannai Corporation** (Lanco Engineering) · Doha, Qatar
+### Software Engineer  **Mannai Corporation** (Lanco Engineering) · Doha, Qatar
 `Oct 2025 – Nov 2025`
 
 - Integrated AI monitoring into a national **Border Information System** spanning
@@ -66,7 +66,7 @@ Currently going deeper on agentic AI, Kubernetes, and evaluation tooling for RAG
 - Deployed containerised **YOLO / TensorFlow** models for real-time violation analysis,
   cutting false alerts by **11%**.
 
-### Software Engineering Intern — **Baker Hughes** · Pune, India
+### Software Engineering Intern  **Baker Hughes** · Pune, India
 `Sep 2024 – Sep 2025`
 
 - Architected and deployed a **Technical Service Portal and Laboratory Management System** for the
@@ -88,7 +88,7 @@ Projects are grouped by what they demonstrate, not by language. Every link is a 
 |---|---|---|
 | [**Roneira Document Intelligence**](https://github.com/aaron-seq/Roneira-AI-LLM-powered-document-intelligence-system) | Enterprise document processing: Azure Document Intelligence + GPT-4, RAG pipeline with vector embeddings, JWT + RBAC, WebSocket progress, PII detection, rate limiting | FastAPI · Postgres · Redis · Azure AI · Docker |
 | [**GenAI Browser Tool**](https://github.com/aaron-seq/GenAI-Browser-Tool) 🥇 | Browser extension for page summarisation, cited Q&A and 50+ language translation. Pluggable provider orchestrator (OpenAI / Anthropic / Gemini / Chrome built-in AI) with automatic fallback | TypeScript · Vite · Vitest · Playwright |
-| [**CogniCore**](https://github.com/aaron-seq/cognicore-local-rag-assistant) | Fully local RAG assistant — no API keys, no data leaving the machine. Phi-3 + sentence-transformers + ChromaDB | LangChain · FastAPI · Streamlit |
+| [**CogniCore**](https://github.com/aaron-seq/cognicore-local-rag-assistant) | Fully local RAG assistant  no API keys, no data leaving the machine. Phi-3 + sentence-transformers + ChromaDB | LangChain · FastAPI · Streamlit |
 | [**Semantic HTML Search**](https://github.com/aaron-seq/semantic-html-search-smarter-codes) | Meaning-based search over HTML content with 500-token chunking and cosine ranking; sub-second latency | FastAPI · Next.js · Qdrant |
 | [**Woods Document Search**](https://github.com/aaron-seq/woods-document-search-engine) | Search engine PoC over 3,000+ internal engineering documents with AI categorisation and summarisation | Python · Vector search |
 | [**ML Voice Lead Analysis**](https://github.com/aaron-seq/ML-voice-lead-analysis) | Transcribes sales cold calls and extracts buyer intent signals, qualified-lead scoring and a metrics dashboard | Python · Speech-to-text · ML |
@@ -121,20 +121,20 @@ Projects are grouped by what they demonstrate, not by language. Every link is a 
 
 ## Toolkit
 
-**Languages** — Python · TypeScript · JavaScript · C# · C++ · Java · MATLAB · SQL · Bash
+**Languages**  Python · TypeScript · JavaScript · C# · C++ · Java · MATLAB · SQL · Bash
 
-**AI / ML** — LLMs · RAG · LangChain · LlamaIndex · prompt engineering · graph-based retrieval ·
+**AI / ML**  LLMs · RAG · LangChain · LlamaIndex · prompt engineering · graph-based retrieval ·
 OpenAI & Azure OpenAI · PyTorch · TensorFlow · scikit-learn · XGBoost · YOLO · OpenCV · sentence-transformers
 
-**Backend** — FastAPI · Django · Flask · Node.js / Express.js · ASP.NET Core · Microsoft Graph · REST · WebSockets · Celery
+**Backend**  FastAPI · Django · Flask · Node.js / Express.js · ASP.NET Core · Microsoft Graph · REST · WebSockets · Celery
 
-**Frontend** — React · Next.js · Redux Toolkit · TanStack Query · Zustand · Tailwind CSS · Framer Motion
+**Frontend**  React · Next.js · Redux Toolkit · TanStack Query · Zustand · Tailwind CSS · Framer Motion
 
-**Data** — PostgreSQL (+ pgvector) · MongoDB · MySQL · Redis · SQLite · InfluxDB · Qdrant · ChromaDB · Supabase
+**Data**  PostgreSQL (+ pgvector) · MongoDB · MySQL · Redis · SQLite · InfluxDB · Qdrant · ChromaDB · Supabase
 
-**Cloud & DevOps** — Azure · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · Vercel · Railway · Power Platform
+**Cloud & DevOps**  Azure · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · Vercel · Railway · Power Platform
 
-**Testing & tooling** — Playwright · Pytest · Vitest · JIRA · Postman
+**Testing & tooling**  Playwright · Pytest · Vitest · JIRA · Postman
 
 ---
 
@@ -142,13 +142,13 @@ OpenAI & Azure OpenAI · PyTorch · TensorFlow · scikit-learn · XGBoost · YOL
 
 | Outcome | Where |
 |---|---|
-| **97%** less document processing time | Wood Engineering — AI extraction bots |
-| **75%** less manual data entry | Baker Hughes — LLM document pipeline |
-| **70%** less service downtime | Baker Hughes — Technical Service Portal |
-| **65%** faster document retrieval | Wood Engineering — RAG search |
-| **40%** faster compliance validation | Baker Hughes — Power Platform automation |
-| **11%** fewer false security alerts | Mannai — containerised CV models |
-| **1,100+** cameras under AI monitoring | Mannai — Border Information System |
+| **97%** less document processing time | Wood Engineering  AI extraction bots |
+| **75%** less manual data entry | Baker Hughes  LLM document pipeline |
+| **70%** less service downtime | Baker Hughes  Technical Service Portal |
+| **65%** faster document retrieval | Wood Engineering  RAG search |
+| **40%** faster compliance validation | Baker Hughes  Power Platform automation |
+| **11%** fewer false security alerts | Mannai  containerised CV models |
+| **1,100+** cameras under AI monitoring | Mannai  Border Information System |
 | **110+** students mentored on RAG & LangChain | ACM Lead, Manipal University Jaipur |
 
 ---
@@ -160,7 +160,7 @@ OpenAI & Azure OpenAI · PyTorch · TensorFlow · scikit-learn · XGBoost · YOL
 | 🥇 1st place | LearnIT Hackathon | GenAI Browser Tool | 2024 |
 | 🥉 3rd place | University Hackathon 8.0 | AI Traffic Management | 2023 |
 | 🏆 Best prototype | ACM Mini Hacks 2.0 | NexusHome smart-home energy (C#/.NET) | 2023 |
-| 🎓 Merit scholarship | SPDC — Qatar Govt & Indian Embassy | Academic excellence | 2021–2025 |
+| 🎓 Merit scholarship | SPDC  Qatar Govt & Indian Embassy | Academic excellence | 2021–2025 |
 | GDSC & ACM Lead | Google Developer Student Club & ACM | Led technical ops for Hacktoberfest; mentored **110+ students** on RAG & LangChain | 2022–2024 |
 
 **Education**
@@ -168,7 +168,7 @@ B.Tech, Information Technology · Manipal University Jaipur · CGPA 7.93 · 2021
 _Relevant coursework: OOP, Data Structures & Algorithm Analysis, Machine Learning, Web Technologies_
 Birla Public School, Doha · Class 12: 90.6% · Class 10: 89.6%
 
-**Competitive programming** — 1,600+ LeetCode rating · 5★ HackerRank
+**Competitive programming**  1,600+ LeetCode rating · 5★ HackerRank
 ([LeetCode](https://leetcode.com/u/AaronSeq/) · [HackerRank](https://www.hackerrank.com/profile/aaronsequeira12))
 
 ---
@@ -189,6 +189,6 @@ Birla Public School, Doha · Class 12: 90.6% · Class 10: 89.6%
 I'm interested in AI engineering and full-stack roles where retrieval, vision or agentic systems
 need to survive contact with real users and real compliance requirements.
 
-**Email** — [aaronsequeira12@gmail.com](mailto:aaronsequeira12@gmail.com)
-**LinkedIn** — [/in/aaronsequeira](https://www.linkedin.com/in/aaronsequeira/)
-**Phone** — +974 66900150 (QA) · +91 99877 26291 (IN)
+**Email**  [aaronsequeira12@gmail.com](mailto:aaronsequeira12@gmail.com)
+**LinkedIn**  [/in/aaronsequeira](https://www.linkedin.com/in/aaronsequeira/)
+**Phone**  +974 66900150 (QA) · +91 99877 26291 (IN)
