@@ -9,7 +9,7 @@ Qatar / India · Open to remote
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B0C10?style=flat-square&logo=vercel&logoColor=white)](https://aaron-sequeira.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronsequeira/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aaronsequeira12@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/AaronSeq/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)]([https://leetcode.com/u/AaronSeq/](https://leetcode.com/u/aaron-sequeira/))
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/aaron_seq)
 
 </div>
